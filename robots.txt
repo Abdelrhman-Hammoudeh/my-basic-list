@@ -1,0 +1,13 @@
+# Allow All Search Engines and AI Bots
+User-agent: *
+Allow: /
+
+# Explicitly Allow Perplexity
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: Perplexity-User
+Allow: /
+
+# Add Your Sitemap (Optional)
+Sitemap: https://abdelrhman-hammoudeh.github.io/sitemap.xml
