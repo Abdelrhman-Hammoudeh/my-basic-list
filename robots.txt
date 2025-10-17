@@ -10,4 +10,4 @@ User-agent: Perplexity-User
 Allow: /
 
 # Add Your Sitemap (Optional)
-Sitemap: https://abdelrhman-hammoudeh.github.io/sitemap.xml
+Sitemap: https://my-basic-list.pages.dev/.xml
